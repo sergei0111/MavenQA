@@ -21,7 +21,6 @@
         <version>5.7.0</version>
         <scope>test</scope>
     </dependency>
-    ...
 </dependencies>
 
 
@@ -35,17 +34,6 @@
                     <failIfNoTests>true</failIfNoTests>
                 </configuration>
             </plugin>
-
-            <plugin>
-                ...
-                <executions>
-                    <execution>
-                        ...
-                    </execution>
-                    ...
-                </executions>
-            </plugin>
-            ...
         </plugins>
     </build>
 
